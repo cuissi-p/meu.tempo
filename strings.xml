@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">meu.tempo</string>
+    <string name="aba_agora">Agora</string>
+    <string name="aba_hoje">Hoje</string>
+    <string name="aba_proximos">Próximos dias</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
